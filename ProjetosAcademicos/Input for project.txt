@@ -1,0 +1,112 @@
+Entrada para Alunos.
+{
+    "id": 2,
+    "nome": "fefe",
+    "matricula": "40028922",
+    "cpf": "123123123",
+    "curso": "computação",
+    "endereco": {
+      "id": 1,
+      "rua": "o melhor lindu",
+      "numero": "1",
+      "cep": "111111",
+      "cidade": "fefelandia",
+      "estado": "fefestate",
+      "pais": "fefecountry"
+    }
+  },
+  {
+    "id": 3,
+    "nome": "dudu",
+    "matricula": "123123123",
+    "cpf": "123123123",
+    "curso": "computação",
+    "endereco": {
+      "id": 6,
+      "rua": "o melhor lindu",
+      "numero": "1",
+      "cep": "111111",
+      "cidade": "fefelandia",
+      "estado": "fefestate",
+      "pais": "fefecountry"
+    }
+  }
+
+Entrada para professor
+
+{
+    "id": 1,
+    "matricula": "40028922",
+    "nome": "Demetrius Abençoado",
+    "curso": "computação",
+    "endereco": {
+      "id": 5,
+      "rua": "o melhor lindu",
+      "numero": "1",
+      "cep": "111111",
+      "cidade": "fefelandia",
+      "estado": "fefestate",
+      "pais": "fefecountry"
+    }
+  }
+
+Entrada para projetos
+
+{
+	"areaProjeto":"Tecnologia",
+	"palavraChave1":"Tech",
+	"palavraChave2":"programming",
+	"palavraChave3":"ohana",
+	"resumo":"usar technologias de programação para encontrar o significado de ohana",
+	"titulo":"Ohana quer dizer...",
+	"urlDocumento":"https://www.google.com/search?q=Ohana&rlz=1C1GCEB_enBR924BR924&sxsrf=ALeKk02_u5AaD_SwJ0Wd4O8x4VLTwcgvWA:1607800605105&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj_g7__k8ntAhWIK7kGHS2sATwQ_AUoAXoECBAQAw&biw=1360&bih=657&dpr=1",
+	"aluno":[{
+    "id": 2,
+    "nome": "fefe",
+    "matricula": "40028922",
+    "cpf": "123123123",
+    "curso": "computação",
+    "endereco": {
+      "id": 1,
+      "rua": "o melhor lindu",
+      "numero": "1",
+      "cep": "111111",
+      "cidade": "fefelandia",
+      "estado": "fefestate",
+      "pais": "fefecountry"
+    }
+		},
+			{
+    "id": 3,
+    "nome": "dudu",
+    "matricula": "123123123",
+    "cpf": "123123123",
+    "curso": "computação",
+    "endereco": {
+      "id": 6,
+      "rua": "o melhor lindu",
+      "numero": "1",
+      "cep": "111111",
+      "cidade": "fefelandia",
+      "estado": "fefestate",
+      "pais": "fefecountry"
+    }
+			}
+					],
+	"professorResponsavel":{
+    "id": 1,
+    "matricula": "40028922",
+    "nome": "Demetrius Abençoado",
+    "curso": "computação",
+    "endereco": {
+      "id": 5,
+      "rua": "o melhor lindu",
+      "numero": "1",
+      "cep": "111111",
+      "cidade": "fefelandia",
+      "estado": "fefestate",
+      "pais": "fefecountry"
+    }
+  }
+	
+}
